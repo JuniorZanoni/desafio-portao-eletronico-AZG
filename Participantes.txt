@@ -1,0 +1,8 @@
+Instrução: faça um pull, adicione um "OK" na frente de seu nome e faça um push: (ex. Eduardo - ok)
+1: Tharik Honda - ok
+2: Gabriel Landi - ok
+3: Luiz Felipe Mota
+4: Júnior Zanoni - ok
+
+
+//
